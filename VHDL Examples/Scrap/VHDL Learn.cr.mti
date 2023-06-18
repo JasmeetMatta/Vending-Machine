@@ -1,0 +1,13 @@
+C:/Users/jasme/Desktop/VHDL/first.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jasme/Desktop/VHDL/first.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity HA
+-- Compiling architecture behavioral of HA
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/first_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jasme/Desktop/VHDL/first_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity test
+-- Compiling architecture bench of test
+
+} {} {}}

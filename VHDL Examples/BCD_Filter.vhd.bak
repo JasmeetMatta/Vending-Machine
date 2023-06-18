@@ -1,0 +1,27 @@
+entity BCD_Filter is
+	port(A,B: in bit_vector(3 downto 0);
+		CinA,CinB: in bit;
+		Sa,Sb: out bit_vector( 7 downto 0));
+end BCD_Filter;
+
+architecture behavioral of BCD_Filter is
+	signal So, Sx,x1,x2: bit_vector(3 downto 0);
+	signal m0,m1,m2,m3: bit;
+	component RCAV2
+		port( A,B: in bit_vector(3 downto 0);
+			Cin: in bit;
+			S: out bit_vector(3 downto 0);
+			Co: out bit);
+	end component;
+begin
+
+m0 <= ((A(3) and A(2)) or (A(3) and A(1)));
+m1 <= ((B(3) and B(2)) or (B(3) and B(1))); 
+x1 <= '0'&m0&m0&'0';
+x2 <= '0'&m1&m1&'0';
+U1: RCAV2 port map(A => A, B=> x1,Cin=>CinA, S=>So, Co=>m2);
+U2: RCAV2 port map(A => A, B=> x2,Cin=>CinB, S=>Sx, Co=>m3);
+Sa <= "000"&m2&So;
+Sb <= "000"&m3&Sx;
+
+end behavioral;

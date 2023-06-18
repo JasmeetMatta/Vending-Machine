@@ -1,0 +1,133 @@
+C:/Users/jasme/Desktop/VHDL/Exercise/SR_Latch_Test.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\jasme\Desktop\VHDL\Exercise\SR_Latch_Test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity SR_Latch_Test
+-- Compiling architecture bench of SR_Latch_Test
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/BCD_AdderV2_Test.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\jasme\Desktop\VHDL\Exercise\BCD_AdderV2_Test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity BCD_Adder_TestV2
+-- Compiling architecture bench of BCD_Adder_TestV2
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/SR_Latch.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\jasme\Desktop\VHDL\Exercise\SR_Latch.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity SR_Latch
+-- Compiling architecture behaviour of SR_Latch
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/BCD_AdderV2.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\jasme\Desktop\VHDL\Exercise\BCD_AdderV2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity BCD_AdderV2
+-- Compiling architecture behavioral of BCD_AdderV2
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/HA_test.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jasme/Desktop/VHDL/Exercise/HA_test.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity testHA
+-- Compiling architecture bench of testHA
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/FA_HA_Component.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jasme/Desktop/VHDL/Exercise/FA_HA_Component.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity FA
+-- Compiling architecture behavioural of FA
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/Exercise5510.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jasme/Desktop/VHDL/Exercise/Exercise5510.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity fourPin
+-- Compiling architecture behavioral of fourPin
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/BCD_Filter_Test.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\jasme\Desktop\VHDL\Exercise\BCD_Filter_Test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity BCD_Filter_Test
+-- Compiling architecture bench of BCD_Filter_Test
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/BCD_Adder_Display.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\jasme\Desktop\VHDL\Exercise\BCD_Adder_Display.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity BCD_Adder_Display
+-- Compiling architecture behavioral of BCD_Adder_Display
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/RCA_Test.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jasme/Desktop/VHDL/Exercise/RCA_Test.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity testRCA
+-- Compiling architecture bench of testRCA
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/RippleCarryAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jasme/Desktop/VHDL/Exercise/RippleCarryAdder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity RCA
+-- Compiling architecture behavioral of RCA
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/BCD_Filter.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\jasme\Desktop\VHDL\Exercise\BCD_Filter.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity BCD_Filter
+-- Compiling architecture behavioral of BCD_Filter
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/BCD_Adder_Test.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\jasme\Desktop\VHDL\Exercise\BCD_Adder_Test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity BCD_Adder_Test
+-- Compiling architecture bench of BCD_Adder_Test
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/BCD_Adder.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\jasme\Desktop\VHDL\Exercise\BCD_Adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity BCD_Adder
+-- Compiling architecture behavioral of BCD_Adder
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/HA.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jasme/Desktop/VHDL/Exercise/HA.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity HA
+-- Compiling architecture behavioural of HA
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/Exercise5510TB.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jasme/Desktop/VHDL/Exercise/Exercise5510TB.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity test
+-- Compiling architecture bench of test
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/BCD_Adder_Display_Test.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\jasme\Desktop\VHDL\Exercise\BCD_Adder_Display_Test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity BCD_AD_Test
+-- Compiling architecture bench of BCD_AD_Test
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/RCA_TestV2.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\jasme\Desktop\VHDL\Exercise\RCA_TestV2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity testRCAV2
+-- Compiling architecture bench of testRCAV2
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/RippleCarryAdderV2.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\jasme\Desktop\VHDL\Exercise\RippleCarryAdderV2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity RCAV2
+-- Compiling architecture behavioral of RCAV2
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/BCD_Decoder_Test.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jasme/Desktop/VHDL/Exercise/BCD_Decoder_Test.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity BCD_Decoder_Test
+-- Compiling architecture bench of BCD_Decoder_Test
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/BCD_Decoder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jasme/Desktop/VHDL/Exercise/BCD_Decoder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity BCD_Decoder
+-- Compiling architecture behavioral of BCD_Decoder
+
+} {} {}} C:/Users/jasme/Desktop/VHDL/Exercise/FA_test.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jasme/Desktop/VHDL/Exercise/FA_test.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity testFA
+-- Compiling architecture bench of testFA
+
+} {} {}}

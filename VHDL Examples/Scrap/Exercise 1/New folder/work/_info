@@ -1,0 +1,48 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/jasme/Desktop/VHDL/Exercise 1
+Eha
+Z0 w1681815484
+!i122 0
+Z1 dC:/Users/jasme/Desktop/VHDL/Exercise 1/Test
+Z2 8C:/Users/jasme/Desktop/VHDL/Exercise 1/Test/Test.vhd
+Z3 FC:/Users/jasme/Desktop/VHDL/Exercise 1/Test/Test.vhd
+l0
+L1 1
+V=`G[6ODmXn26VAD<^]EG[3
+!s100 O<8>h@^j[]8DR5H7`O[Ic0
+Z4 OV;C;2020.1;71
+32
+Z5 !s110 1681815543
+!i10b 1
+Z6 !s108 1681815543.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jasme/Desktop/VHDL/Exercise 1/Test/Test.vhd|
+!s107 C:/Users/jasme/Desktop/VHDL/Exercise 1/Test/Test.vhd|
+!i113 1
+Z8 o-work work -2002 -explicit
+Z9 tExplicit 1 CvgOpt 0
+Abehavioral
+DEx4 work 2 ha 0 22 =`G[6ODmXn26VAD<^]EG[3
+!i122 0
+l9
+L8 5
+VP?gZT=XWT[3F8A<3G:a4b0
+!s100 [D?_gz08bIhTZ52iS5=i63
+R4
+32
+R5
+!i10b 1
+R6
+R7
+Z10 !s107 C:/Users/jasme/Desktop/VHDL/Exercise 1/Test/Test.vhd|
+!i113 1
+R8
+R9
